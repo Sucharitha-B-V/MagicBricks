@@ -1,0 +1,2 @@
+# MagicBricks
+SignUp functionality
